@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: eurekaProvider
+server:
+  port: 8090
+
+
